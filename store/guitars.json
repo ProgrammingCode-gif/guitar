@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "S by Solar TB4.61С",
+        "price": 19990,
+        "image": "https://guitar-guitar.ru/upload/resize_cache/webp/upload/iblock/5bd/hycora6dwrr71ns7phpwpnt31l9kak7u.jpg.webp"
+    },
+    {
+        "id": 2,
+        "name": "S by Solar AB4.7С",
+        "price": 24900,
+        "image": "https://guitar-guitar.ru/upload/resize_cache/webp/upload/iblock/e22/q5s8njk7yghf9d78lwp00jpzjlto0aux.jpg.webp"
+    },
+    {
+        "id": 3,
+        "name": "Ibanez AZES31-VM",
+        "price": 32000,
+        "image": "https://guitar-guitar.ru/upload/resize_cache/webp/upload/iblock/d94/a2ygisii5pzld80nf2f1obhawkd212gf.jpg.webp"
+    },
+    {
+        "id": 4,
+        "name": "Magna 2000RFR-BK",
+        "price": 24850,
+        "image": "https://guitar-guitar.ru/upload/resize_cache/webp/upload/iblock/f50/gwkjtvgfqbzcn31g11igfiack3r3l7e2.jpg.webp"
+    },
+    {
+        "id": 5,
+        "name": "JET JS-850 Relic FR",
+        "price": 46790,
+        "image": "https://guitar-guitar.ru/upload/resize_cache/webp/upload/iblock/16d/12a3l8sfjy9ktv8aql86stirf6dsx25v.jpeg.webp"
+    },
+    {
+        "id": 6,
+        "name": "JET JS-500 RDS",
+        "price": 23900,
+        "image": "https://guitar-guitar.ru/upload/resize_cache/webp/upload/iblock/ea8/rmc2m7fg46dzs3us22gqltoznnkhbmit.jpeg.webp"
+    },
+    {
+        "id": 7,
+        "name": "JET JL-500 VS",
+        "price": 33500,
+        "image": "https://guitar-guitar.ru/upload/resize_cache/webp/upload/iblock/da3/6n450oeqe2q421zcqbm7tsfo2kh8bn2v.jpg.webp"
+    },
+    {
+        "id": 8,
+        "name": "Jackson JS32T King V Ferrari Red",
+        "price": 49000,
+        "image": "https://guitar-guitar.ru/upload/resize_cache/webp/upload/iblock/3b4/ep0iy425ral5frmtgad81ydp74ufs0ty.jpg.webp"
+    },
+    {
+        "id": 9,
+        "name": "JET JS-450Q TBR",
+        "price": 25100,
+        "image": "https://guitar-guitar.ru/upload/resize_cache/webp/upload/iblock/24a/yk0jh3ah6gp1h6nkg8xumvqf5zvfv2m9.jpeg.webp"
+    },
+    {
+        "id": 10,
+        "name": "JET JL-500 SLB",
+        "price": 32359,
+        "image": "https://guitar-guitar.ru/upload/resize_cache/webp/upload/iblock/d55/4k3231qthb1z2r4ibcwlmtdwqi13vke6.jpeg.webp"
+    },
+    {
+        "id": 11,
+        "name": "Fender Squier Bullet Telecaster LRL Black",
+        "price": 23100,
+        "image": "https://guitar-guitar.ru/upload/resize_cache/webp/upload/iblock/744/4dqsp19f0othjb5w8ayvgzyrl4dfbe5y.jpg.webp"
+    },
+    {
+        "id": 12,
+        "name": "JET JS-600 TRS",
+        "price": 35300,
+        "image": "https://guitar-guitar.ru/upload/resize_cache/webp/upload/iblock/63f/apctgnv0k63s2k5v0pdd8aoil8efkncr.jpeg.webp"
+    },
+    {
+        "id": 13,
+        "name": "JET JS-450 TBL",
+        "price": 24900,
+        "image": "https://guitar-guitar.ru/upload/resize_cache/webp/upload/iblock/d13/muymb6sy5zp929zjy957hapm6rqpbzux.jpeg.webp"
+    },
+    {
+        "id": 14,
+        "name": "Cort X300-FPU X Series",
+        "price": 39750,
+        "image": "https://guitar-guitar.ru/upload/resize_cache/webp/upload/iblock/180/v424ayla81hhz8szzx7b58bl5w2ja0z2.jpg.webp"
+    },
+    {
+        "id": 15,
+        "name": "Fender Squier Classic Vibe 70s Stratocaster HSS MN Black",
+        "price": 62000,
+        "image": "https://guitar-guitar.ru/upload/resize_cache/webp/upload/iblock/1e8/tbxgqw5rjk50nt6obn9hteslxi04f1ih.jpg.webp"
+    },
+    {
+        "id": 16,
+        "name": "JET JS-500 SLS",
+        "price": 23900,
+        "image": "https://guitar-guitar.ru/upload/resize_cache/webp/upload/iblock/8bb/ql23ck850jft5tr1w9ehv8c1ft0hsdnz.jpg.webp"
+    },
+    {
+        "id": 17,
+        "name": "Homage HEG320SB ",
+        "price": 9200,
+        "image": "https://guitar-guitar.ru/upload/resize_cache/webp/upload/iblock/a10/fc7g56w0uhgyawuvzvcbv4opa4y91o6x.jpg.webp"
+    },
+    {
+        "id": 18,
+        "name": "FGN Boundary Odyssey BOS2GHH SWH",
+        "price": 62200,
+        "image": "https://guitar-guitar.ru/upload/resize_cache/webp/upload/iblock/2e5/w8v3vwj6hkx54367myyvdp3go2apb5xn.jpg.webp"
+    },
+    {
+        "id": 19,
+        "name": "Jackson JS22 Dinky Arch Top DKA Metallic Blue",
+        "price": 37000,
+        "image": "https://guitar-guitar.ru/upload/resize_cache/webp/upload/iblock/93e/pt2qk7qcu7h6xnn8lmokocytma2y43iy.jpg.webp"
+    },
+    {
+        "id": 20,
+        "name": "Schecter Demon-7 CRB",
+        "price": 41900,
+        "image": "https://guitar-guitar.ru/upload/resize_cache/webp/upload/iblock/cc4/hnrgh0meuwqjtmls73xgdrj3k0ridtfj.jpg.webp"
+    }
+]
